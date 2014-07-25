@@ -21,6 +21,23 @@
 		335277B519809A1300C14EBC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3352779719809A1300C14EBC /* UIKit.framework */; };
 		335277BD19809A1300C14EBC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 335277BB19809A1300C14EBC /* InfoPlist.strings */; };
 		335277BF19809A1300C14EBC /* BrickTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 335277BE19809A1300C14EBC /* BrickTests.m */; };
+		335277C91980A76B00C14EBC /* bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277C81980A76B00C14EBC /* bar.png */; };
+		335277CB1980AA1500C14EBC /* ballBlue.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277CA1980AA1500C14EBC /* ballBlue.png */; };
+		335277CF1980F9CD00C14EBC /* greenBrick.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277CC1980F9CD00C14EBC /* greenBrick.png */; };
+		335277D01980F9CD00C14EBC /* redBrick.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277CD1980F9CD00C14EBC /* redBrick.png */; };
+		335277D11980F9CD00C14EBC /* yellowBrick.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277CE1980F9CD00C14EBC /* yellowBrick.png */; };
+		335277D31981204800C14EBC /* fireBall.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277D21981204800C14EBC /* fireBall.png */; };
+		335277D71981218500C14EBC /* galaxy.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277D61981218500C14EBC /* galaxy.png */; };
+		335277E319814DBF00C14EBC /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277E219814DBF00C14EBC /* pause.png */; };
+		335277E61981513800C14EBC /* soundBackground.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335277E51981513800C14EBC /* soundBackground.mp3 */; };
+		335277E8198152AE00C14EBC /* GameOver.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277E7198152AE00C14EBC /* GameOver.png */; };
+		335277EA19815D9A00C14EBC /* touchBrick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 335277E919815D9A00C14EBC /* touchBrick.wav */; };
+		335277EC1981646100C14EBC /* brickBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335277EB1981646100C14EBC /* brickBackground.jpg */; };
+		335277EE198164D500C14EBC /* fire.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277ED198164D500C14EBC /* fire.png */; };
+		335277F01981677900C14EBC /* StartIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277EF1981677900C14EBC /* StartIcon.png */; };
+		335277F21981698000C14EBC /* BrickLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 335277F11981698000C14EBC /* BrickLogo.png */; };
+		335277F419816BC200C14EBC /* die.wav in Resources */ = {isa = PBXBuildFile; fileRef = 335277F319816BC200C14EBC /* die.wav */; };
+		335277F619816FD900C14EBC /* victory.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 335277F519816FD900C14EBC /* victory.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +70,23 @@
 		335277BA19809A1300C14EBC /* BrickTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BrickTests-Info.plist"; sourceTree = "<group>"; };
 		335277BC19809A1300C14EBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		335277BE19809A1300C14EBC /* BrickTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BrickTests.m; sourceTree = "<group>"; };
+		335277C81980A76B00C14EBC /* bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar.png; sourceTree = "<group>"; };
+		335277CA1980AA1500C14EBC /* ballBlue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ballBlue.png; sourceTree = "<group>"; };
+		335277CC1980F9CD00C14EBC /* greenBrick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenBrick.png; sourceTree = "<group>"; };
+		335277CD1980F9CD00C14EBC /* redBrick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redBrick.png; sourceTree = "<group>"; };
+		335277CE1980F9CD00C14EBC /* yellowBrick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellowBrick.png; sourceTree = "<group>"; };
+		335277D21981204800C14EBC /* fireBall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fireBall.png; sourceTree = "<group>"; };
+		335277D61981218500C14EBC /* galaxy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = galaxy.png; sourceTree = "<group>"; };
+		335277E219814DBF00C14EBC /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		335277E51981513800C14EBC /* soundBackground.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = soundBackground.mp3; sourceTree = "<group>"; };
+		335277E7198152AE00C14EBC /* GameOver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GameOver.png; sourceTree = "<group>"; };
+		335277E919815D9A00C14EBC /* touchBrick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = touchBrick.wav; sourceTree = "<group>"; };
+		335277EB1981646100C14EBC /* brickBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brickBackground.jpg; sourceTree = "<group>"; };
+		335277ED198164D500C14EBC /* fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fire.png; sourceTree = "<group>"; };
+		335277EF1981677900C14EBC /* StartIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartIcon.png; sourceTree = "<group>"; };
+		335277F11981698000C14EBC /* BrickLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BrickLogo.png; sourceTree = "<group>"; };
+		335277F319816BC200C14EBC /* die.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = die.wav; sourceTree = "<group>"; };
+		335277F519816FD900C14EBC /* victory.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = victory.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +146,7 @@
 		3352779919809A1300C14EBC /* Brick */ = {
 			isa = PBXGroup;
 			children = (
+				335277E41981510700C14EBC /* resource */,
 				335277A219809A1300C14EBC /* AppDelegate.h */,
 				335277A319809A1300C14EBC /* AppDelegate.m */,
 				335277A519809A1300C14EBC /* Main.storyboard */,
@@ -150,6 +185,30 @@
 				335277BB19809A1300C14EBC /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		335277E41981510700C14EBC /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				335277F319816BC200C14EBC /* die.wav */,
+				335277F519816FD900C14EBC /* victory.mp3 */,
+				335277EF1981677900C14EBC /* StartIcon.png */,
+				335277F11981698000C14EBC /* BrickLogo.png */,
+				335277ED198164D500C14EBC /* fire.png */,
+				335277EB1981646100C14EBC /* brickBackground.jpg */,
+				335277E919815D9A00C14EBC /* touchBrick.wav */,
+				335277E7198152AE00C14EBC /* GameOver.png */,
+				335277C81980A76B00C14EBC /* bar.png */,
+				335277E51981513800C14EBC /* soundBackground.mp3 */,
+				335277E219814DBF00C14EBC /* pause.png */,
+				335277CA1980AA1500C14EBC /* ballBlue.png */,
+				335277D61981218500C14EBC /* galaxy.png */,
+				335277CC1980F9CD00C14EBC /* greenBrick.png */,
+				335277CD1980F9CD00C14EBC /* redBrick.png */,
+				335277D21981204800C14EBC /* fireBall.png */,
+				335277CE1980F9CD00C14EBC /* yellowBrick.png */,
+			);
+			name = resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,9 +287,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				335277F419816BC200C14EBC /* die.wav in Resources */,
 				335277AC19809A1300C14EBC /* Images.xcassets in Resources */,
+				335277EE198164D500C14EBC /* fire.png in Resources */,
+				335277EA19815D9A00C14EBC /* touchBrick.wav in Resources */,
+				335277D11980F9CD00C14EBC /* yellowBrick.png in Resources */,
+				335277E8198152AE00C14EBC /* GameOver.png in Resources */,
+				335277E61981513800C14EBC /* soundBackground.mp3 in Resources */,
+				335277F619816FD900C14EBC /* victory.mp3 in Resources */,
+				335277F21981698000C14EBC /* BrickLogo.png in Resources */,
 				3352779E19809A1300C14EBC /* InfoPlist.strings in Resources */,
+				335277D71981218500C14EBC /* galaxy.png in Resources */,
 				335277A719809A1300C14EBC /* Main.storyboard in Resources */,
+				335277CF1980F9CD00C14EBC /* greenBrick.png in Resources */,
+				335277D01980F9CD00C14EBC /* redBrick.png in Resources */,
+				335277E319814DBF00C14EBC /* pause.png in Resources */,
+				335277D31981204800C14EBC /* fireBall.png in Resources */,
+				335277CB1980AA1500C14EBC /* ballBlue.png in Resources */,
+				335277F01981677900C14EBC /* StartIcon.png in Resources */,
+				335277EC1981646100C14EBC /* brickBackground.jpg in Resources */,
+				335277C91980A76B00C14EBC /* bar.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
